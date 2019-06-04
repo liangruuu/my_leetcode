@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Largest_Number_At_Least_Twice_of_Others)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Largest_Number_At_Least_Twice_of_Others main.cpp)
